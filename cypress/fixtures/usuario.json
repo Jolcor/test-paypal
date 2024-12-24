@@ -1,0 +1,31 @@
+{
+    "NuevoUsuarioValido" : {
+        "email" : "jouisC@gmail.com.co",
+        "phoneNumber" : "3006521987",
+        "firstName" : "Jorge",
+        "middleName" : "Luis",
+        "lastName" : "Corrales",
+        "password" : "Jolcore1108",
+        "confirmPassword" : "Jolcore1108",
+        "cc" : "1234567890",
+        "fecha" : "12051989",
+        "direccion1" : "transversal 14 # 13 - 21",
+        "direccion2" : "transversal 23 # 103 - 21"
+    },
+    "NuevoUsuarioInvalido" : {
+        "email" : "jorgeluisCgmail.com",
+        "phoneNumber" : "30987",
+        "firstName" : "Jorge",
+        "middleName" : "Luis",
+        "lastName" : "Corrales",
+        "password" : "1111",
+        "confirmPassword" : "Jolcore1108",
+        "cc" : "1234567890",
+        "fecha" : "12051989",
+        "direccion1" : "transversal 14 # 13 - 21",
+        "direccion2" : "transversal 23 # 103 - 21"
+    },
+    "usuarioExistente" : {
+        "email" : "jorgeluisC@gmail.com.co"
+    }
+}
