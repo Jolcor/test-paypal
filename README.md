@@ -16,4 +16,4 @@ El propósito de estas pruebas es asegurar que los usuarios puedan registrarse c
 2. Verificación de restricciones de formato para correos electrónicos y contraseñas.  
 3. Pruebas para la creación exitosa de un nuevo usuario.  
 4. Manejo de mensajes de error para datos incompletos o inválidos.  
-5. Verificación de la experiencia de usuario al interactuar con el formulario.
+5. Verificación de la experiencia de usuario al interactuar con el formulario
